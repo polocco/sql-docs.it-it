@@ -112,7 +112,7 @@ rello
 lters
  ```  
   
-### <a name="c-using-right-with-a-character-string"></a>C. Uso di LEFT con una stringa di caratteri  
+### <a name="c-using-right-with-a-character-string"></a>C. Uso di RIGHT con una stringa di caratteri  
  Nell'esempio seguente viene usata la funzione `RIGHT` per restituire gli ultimi due caratteri della stringa di caratteri `abcdefg`.  
   
 ```sql  
